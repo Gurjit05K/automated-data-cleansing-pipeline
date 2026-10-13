@@ -21,7 +21,7 @@ A no-code automation workflow built with Make.com that intercepts inbound form d
 * Ensures downstream databases receive clean, standardized text.
 * Reduces administrative time spent cleaning raw web data.
 
-## 🚀 How to Import
+##  How to Import
 1. Log in to your [Make.com](https://www.make.com/) account.
 2. Create a new Scenario.
 3. Click the menu (three dots) in the top right -> **Import blueprint**.
